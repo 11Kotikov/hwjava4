@@ -53,7 +53,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        // swapList(yourOwnList()); // задача 1
         LinkedList<String> yourList = yourOwnList();
         Scanner input = new Scanner(System.in);
         int choice = 100;
